@@ -6,4 +6,7 @@
 ##INTERESTS:\
 *My passion and profession are for programming and to discover a new world of technology through it.\
 *To me, programming is more than a work.\
-*It is the work of creativity and logics which I like the most.  
+***It is the work of creativity and logics which I like the most***.  
+###NAME:Muhammad Rayan Majid\
+###DEGREE PROGRAM: BS in Software Engineering\
+###HOBBY: Travelling
